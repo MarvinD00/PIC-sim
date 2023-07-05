@@ -1,0 +1,5 @@
+                    00001           ;TPicSim1
+                    00002           ;Programm zum Test des 16F84-Simulators.
+                    00003           ;Es werden alle Literal-Befehle geprüft
+                    00004           ;(c) St. Lehmann
+                    00005           ;Ersterstellung: 23.03.2016
